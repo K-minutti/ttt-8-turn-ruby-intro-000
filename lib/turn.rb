@@ -53,6 +53,7 @@ def turn(board)
   if valid_move? == true
   move(board, index, character = "X")
 end
+end
 
 # Asking the user for their move by position 1-9.
 # Receiving the user input.
