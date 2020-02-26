@@ -55,6 +55,7 @@ def turn(board)
     display_board(board)
   else
     turn(board)
+  end
 end
 
 #  ask for input == Asking the user for their move by position 1-9.
