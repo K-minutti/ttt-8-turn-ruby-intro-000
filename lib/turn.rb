@@ -36,7 +36,6 @@ def position_taken?(board, index)
 end
 
 # move method
-
 def input_to_index(user_input)
   index = user_input.to_i
   index -= 1
