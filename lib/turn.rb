@@ -50,6 +50,7 @@ end
 
 def turn(board, number)
   puts "Please enter 1-9:"
+
 end
 
 # Asking the user for their move by position 1-9.
