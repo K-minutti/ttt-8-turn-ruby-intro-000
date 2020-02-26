@@ -50,9 +50,6 @@ end
 
 def turn(board)
   puts "Please enter 1-9:"
-  if valid_move? == true
-  move(board, index, character = "X")
-end
 end
 
 # Asking the user for their move by position 1-9.
